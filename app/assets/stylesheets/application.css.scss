@@ -35,7 +35,11 @@ h1, h2, h3{
 
 .navbar{
   border: none;
-  
+}
+
+.navbar-brand{
+  font-family: 'Noto Sans', sans-serif;
+  font-weight: 800;
 }
 
 // Changing the navbar textcolor and modifying the hover state
